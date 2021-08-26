@@ -1,0 +1,27 @@
+.pods {
+
+}
+
+.pod {
+  border: 1px solid black;
+  width: 150px;
+  height: 150px;
+  padding: 15px;
+  margin: 20px;
+  display: inline-block;
+  text-align: center;
+ border-radius: 10px;
+ display: inline-block;
+  
+}
+
+
+.pod.active {
+  background-color: #697689;
+}
+
+.pod.inactive {
+  background-color: #d9edf0
+
+  ;
+}
